@@ -60,3 +60,8 @@ Authorization: Bearer TOKEN
 FastAPI
    ↓
 Database
+
+```bash
+git add README.md
+git commit -m "Add project documentation"
+git push
